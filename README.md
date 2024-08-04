@@ -102,4 +102,3 @@ Feel free to connect to discuss innovative projects and opportunities in data sc
 
 ---
 
-*Harshit Sharma - page 1*
