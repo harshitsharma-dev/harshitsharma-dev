@@ -22,6 +22,7 @@ As a passionate data science student, I leverage technology to solve real-world 
 ### Machine Learning Intern, IIT Kharagpur
 ![Image here](Picture1.png "Pothole detection and route analysis in video itself")
 ![Image2 here](Picture3.jpg "Mapping it for minal product on web using flask and api")
+
 **May 2024 - Present (2.5 months)**
 
 - Predicted pedestrian safety scores using Computer Vision and Machine Learning.
