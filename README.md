@@ -32,7 +32,6 @@ https://github.com/harshitsharma-dev/PotholeMapping
 
 ### UHI Monitoring Project, IIT Madras
 
-Screenshot 2024-08-04 211211.jpg
 
 
 
