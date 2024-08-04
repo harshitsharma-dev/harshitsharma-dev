@@ -31,7 +31,7 @@ https://github.com/harshitsharma-dev/PotholeMapping
 - Plotted a map with detected potholes on a Flask-based website, providing insights into pedestrian safety.
 
 ### UHI Monitoring Project, IIT Madras
-
+https://github.com/harshitsharma-dev/UrbanHeat
 
 
 
@@ -43,6 +43,7 @@ https://github.com/harshitsharma-dev/PotholeMapping
 - Developed a user-friendly web application for seamless access to spatial analysis results.
 
 ### Buoyant Ascension Project, PRL ISRO
+
 **Feb 2024**
 
 - Presented and led a project to probe gaseous planets at the International Conference on Planets, Exoplanets, and Habitability.
