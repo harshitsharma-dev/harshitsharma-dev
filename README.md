@@ -95,6 +95,7 @@ Apr 2019 - Apr 2020
 - Data Structures
 - Algorithms
 - Computer Network Operations
+- Web Development
 
 ---
 
