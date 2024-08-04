@@ -36,6 +36,8 @@ Screenshot 2024-08-04 211211.jpg
 
 [![Watch the video]("Screenshot 2024-08-04 211211.jpg")](https://www.youtube.com/watch?v=u-JftEw50vM)
 
+[![asciicast](ushmaimg.jpg)](https://www.youtube.com/watch?v=u-JftEw50vM)
+
 
 - Used Google Earth Engine (GEE) and machine learning to predict Urban Heat Island (UHI) values.
 - Gathered LST and urban morphology data for accurate UHI predictions.
