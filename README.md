@@ -35,7 +35,6 @@ https://github.com/harshitsharma-dev/PotholeMapping
 Screenshot 2024-08-04 211211.jpg
 
 
-[![Watch the video]("Screenshot 2024-08-04 211211.jpg")](https://www.youtube.com/watch?v=u-JftEw50vM)
 
 [![asciicast](ushmaimg.jpg)](https://www.youtube.com/watch?v=u-JftEw50vM)
 
