@@ -30,7 +30,7 @@ As a passionate data science student, I leverage technology to solve real-world 
 - Plotted a map with detected potholes on a Flask-based website, providing insights into pedestrian safety.
 
 ### UHI Monitoring Project, IIT Madras
-![Video](https://youtu.be/u-JftEw50vM?feature=shared)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/u-JftEw50vM?feature=shared))
 
 - Used Google Earth Engine (GEE) and machine learning to predict Urban Heat Island (UHI) values.
 - Gathered LST and urban morphology data for accurate UHI predictions.
